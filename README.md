@@ -3,7 +3,7 @@
    -Configured Tailwind
    -Header
    -Login Form
-   -Sign up form  
+   -Sign up form   
 
 
 # Features
