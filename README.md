@@ -1,10 +1,9 @@
- # Netflix GPT
-
+# Netflix GPT
   -Create React App
   -Configured Tailwind
 
 
-  # Features
+# Features
   -Login/Sigup
      -SignIn/Sign up form
      -radirect to browse page
